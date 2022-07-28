@@ -6,14 +6,12 @@
 # 📊GitHub Stats :
 <table>
 <tr>
-  <td width="50%">
+  <td width="48%">
     <img src=https://github-readme-stats.vercel.app/api?username=hhoang120403&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
     <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=hhoang120403&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact>
-   <td width="50%">
+   <td width="52%">
    <img src=https://github-readme-streak-stats.herokuapp.com/?user=hhoang120403&theme=tokyonight&hide_border=false)<br/
 </tr>
-<table>
-
 ## 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=hhoang120403&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
