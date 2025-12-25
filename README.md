@@ -2,7 +2,7 @@
 
 🅷🅸 🖐, 🅸'🅼 🅷🆄🆈 🅷🅾🅰🅽🅶
 # 💻Tech Stack
-![Angular](https://img.shields.io/badge/Angular-%2300599C.svg?style=flat&logo=angular
+![Angular](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=angular)
 # 📊GitHub Stats :
 <table>
   <tr>
