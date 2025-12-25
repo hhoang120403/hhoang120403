@@ -2,7 +2,7 @@
 
 🅷🅸 🖐, 🅸'🅼 🅷🆄🆈 🅷🅾🅰🅽🅶
 # 💻Tech Stack
-![Angular](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=angular) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![Angular](https://img.shields.io/badge/Angular-%2300599C.svg?style=flat&logo=angular) ![Nextjs](https://cdn.worldvectorlogo.com/logos/next-js.svg) ![Nodejs](https://www.vhv.rs/dpng/d/546-5460201_node-js-logo-png-transparent-png.png) ![MongoDB](https://www.vhv.rs/dpng/d/145-1450243_mongodb-logo-png-transparent-png.png) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 # 📊GitHub Stats :
 <table>
   <tr>
